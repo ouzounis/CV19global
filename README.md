@@ -64,7 +64,7 @@ The DAGs automate **downloading**, **processing**, and **loading** of large data
 ## Author
 
 **Stavros Moutsis**  
-smoutsis@pme.duth.gr
+smoutsis@pme.duth.gr  
 **Christos Ouzounis**  
-cao@csd.auth.gr
+cao@csd.auth.gr  
 
