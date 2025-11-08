@@ -46,7 +46,7 @@ def _upload_data_to_postgres():
     path8 = '/home/smoutsis/data-V2/data-V2-temp/'
     # onlyfiles2 = [ f for f in listdir(path7) if isfile(join(path7,f)) ]
     onlyfiles2 = ['v_uv.csv']
-    engine = create_engine('postgresql://postgres:hyp@ti@p0stgr3s!@#$@62.217.122.70:5432/postgres')
+    engine = create_engine('postgresql:[add credentials]')
     for csv_2 in progressbar(onlyfiles2):
 
     # data = pd.read_csv(path7+csv_2)
