@@ -1,0 +1,9 @@
+Notes
+
+Make sure your PostgreSQL connection is configured correctly in create_engine().
+These scripts assume specific local paths (like /home/smoutsis/...), so adjust them to match your environment.
+
+Data sources include:
+Our World in Data COVID-19
+Google Cloud Public Datasets
+TEMIS UV Radiation
