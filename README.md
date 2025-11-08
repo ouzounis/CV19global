@@ -61,7 +61,7 @@ The DAGs automate **downloading**, **processing**, and **loading** of large data
 - Chunked uploads allow very large CSVs to be ingested without memory errors.
 - Use the DAGs separately if you only need one stage (e.g., just download or just upload), or use `data.py` for the **full workflow**.
 
-## Author
+## Authors/Contact
 
 **Stavros Moutsis**  
 smoutsis@pme.duth.gr  
