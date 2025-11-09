@@ -1,0 +1,82 @@
+location_key,ISO 3166-1-alpha-2
+country_name,ISO 3166
+country_code,ISO 3166-1-alpha-3
+date_recorded,WHO COVID-19 dashboard data
+total_cases,WHO COVID-19 dashboard data
+new_cases,WHO COVID-19 dashboard data
+new_cases_smoothed,WHO COVID-19 dashboard data
+total_deaths,WHO COVID-19 dashboard data
+new_deaths,WHO COVID-19 dashboard data
+new_deaths_smoothed,WHO COVID-19 dashboard data
+total_cases_per_million,WHO COVID-19 dashboard data
+new_cases_per_million,WHO COVID-19 dashboard data
+new_cases_smoothed_per_million,WHO COVID-19 dashboard data
+total_deaths_per_million,WHO COVID-19 dashboard data
+new_deaths_per_million,WHO COVID-19 dashboard data
+new_deaths_smoothed_per_million,WHO COVID-19 dashboard data
+reproduction_rate,WHO COVID-19 dashboard data
+icu_patients,WHO COVID-19 dashboard data
+icu_patients_per_million,WHO COVID-19 dashboard data
+hosp_patients,WHO COVID-19 dashboard data
+hosp_patients_per_million,WHO COVID-19 dashboard data
+weekly_icu_admissions,WHO COVID-19 dashboard data
+weekly_hosp_admissions,WHO COVID-19 dashboard data
+new_tests,WHO COVID-19 dashboard data
+total_tests,WHO COVID-19 dashboard data
+total_tests_per_thousand,WHO COVID-19 dashboard data
+new_tests_per_thousand,WHO COVID-19 dashboard data
+new_tests_smoothed,WHO COVID-19 dashboard data
+new_tests_smoothed_per_thousand,WHO COVID-19 dashboard data
+positive_rate,WHO COVID-19 dashboard data
+tests_per_case,WHO COVID-19 dashboard data
+total_vaccinations,WHO COVID-19 dashboard data
+people_vaccinated,WHO COVID-19 dashboard data
+people_fully_vaccinated,WHO COVID-19 dashboard data
+new_vaccinations,WHO COVID-19 dashboard data
+new_vaccinations_smoothed,WHO COVID-19 dashboard data
+total_vaccinations_per_hundred,WHO COVID-19 dashboard data
+people_vaccinated_per_hundred,WHO COVID-19 dashboard data
+people_fully_vaccinated_per_hundred,WHO COVID-19 dashboard data
+total_boosters_per_hundred,WHO COVID-19 dashboard data
+new_vaccinations_smoothed_per_million,WHO COVID-19 dashboard data
+new_people_vaccinated_smoothed,WHO COVID-19 dashboard data
+new_people_vaccinated_smoothed_per_hundred,WHO COVID-19 dashboard data
+school_closing, Oxford COVID-19 Government Response Tracker
+workplace_closing, Oxford COVID-19 Government Response Tracker
+cancel_public_events, Oxford COVID-19 Government Response Tracker
+restrictions_on_gatherings, Oxford COVID-19 Government Response Tracker
+public_transport_closing, Oxford COVID-19 Government Response Tracker
+stay_at_home_requirements, Oxford COVID-19 Government Response Tracker
+restrictions_on_internal_movement, Oxford COVID-19 Government Response Tracker
+international_travel_controls, Oxford COVID-19 Government Response Tracker
+income_support, Oxford COVID-19 Government Response Tracker
+debt_relief, Oxford COVID-19 Government Response Tracker
+fiscal_measures, Oxford COVID-19 Government Response Tracker
+international_support, Oxford COVID-19 Government Response Tracker
+public_information_campaigns, Oxford COVID-19 Government Response Tracker
+testing_policy, Oxford COVID-19 Government Response Tracker
+contact_tracing, Oxford COVID-19 Government Response Tracker
+emergency_investment_in_healthcare, Oxford COVID-19 Government Response Tracker
+investment_in_vaccines, Oxford COVID-19 Government Response Tracker
+facial_coverings, Oxford COVID-19 Government Response Tracker
+vaccination_policy, Oxford COVID-19 Government Response Tracker
+stringency_index, Oxford COVID-19 Government Response Tracker
+retail_recreation,Google COVID-19 open data
+grocery_pharmacy,Google COVID-19 open data
+parks,Google COVID-19 open data
+transit_stations,Google COVID-19 open data
+work_places,Google COVID-19 open data
+residential,Google COVID-19 open data
+avg_tmp,NOAA (GHCNd)
+min_tmp,NOAA (GHCNd)
+max_tmp,NOAA (GHCNd)
+rainfall_mm,NOAA (GHCNd)
+snowfall_mm,NOAA (GHCNd)
+dew_point,NOAA (GHCNd)
+relative_point,NOAA (GHCNd)
+uvdvf,TEMIS UV Index
+uvddf,TEMIS UV Index
+ozone,TEMIS UV Index
+gdp_usd,World Bank
+gdp_per_capita_usd,World Bank
+human_capital_inex,World Bank
