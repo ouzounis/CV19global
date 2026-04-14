@@ -56,7 +56,7 @@ The DAGs automate **downloading**, **processing**, and **loading** of large data
 ## Notes for Researchers
 
 - These DAGs are designed for **reproducibility** and **transparency**.
-- Data sources are public and regularly updated.
+- Data sources are public and were regularly updated.
 - The pipeline overwrites old files with the latest versions.
 - Chunked uploads allow very large CSVs to be ingested without memory errors.
 - Use the DAGs separately if you only need one stage (e.g., just download or just upload), or use `data.py` for the **full workflow**.
