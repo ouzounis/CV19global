@@ -2,6 +2,8 @@
 CV19global on OSF
 Data available on the SARS2 project at: https://osf.io/kgxuf/; use cases: (A) https://osf.io/zvpqy, (B) https://osf.io/dcyn2; **CV19global** at: https://osf.io/wxy4r. Tar-gzip archive: https://osf.io/7mcr3.
 
+Moutsis, S.N., Karapiperis, C., Angelis, L. et al. CV19global: harmonized epidemiology, policy, mobility and weather indicators from two years and 54 countries. Sci Data 13, 1258 (2026). https://doi.org/10.1038/s41597-026-07468-w
+
 # COVID-19 Airflow Pipelines
 
 This repository contains three **Apache Airflow DAGs** for building a reproducible research pipeline with COVID-19 and related datasets.  
